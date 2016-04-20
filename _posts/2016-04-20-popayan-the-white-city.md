@@ -6,20 +6,20 @@ inLanguage: null
 starred: false
 keywords: []
 description: Popayan - the White City
-datePublished: '2016-04-20T22:36:57.321Z'
-dateModified: '2016-04-20T22:24:32.534Z'
+datePublished: '2016-04-20T22:51:26.398Z'
+dateModified: '2016-04-20T22:49:53.844Z'
 title: ''
 author:
   - name: andrés e. munárriz soto
     url: ''
+sourcePath: _posts/2016-04-20-popayan-the-white-city.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-04-20-popayan-the-white-city.md
-published: true
 url: popayan-the-white-city/index.html
 _type: Article
 
