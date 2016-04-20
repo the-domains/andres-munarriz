@@ -1,7 +1,7 @@
 name: Andrés Munárriz
 favicon: null
 layout_spectrum: 1
-typography_spectrum: 0.37989763682708144
+typography_spectrum: 0.38777
 title: My new attempt at photography
 cta:
   domain: null
@@ -22,8 +22,8 @@ color:
     - '#777449'
     - '#563b24'
     - '#090e0a'
-  brandStrength: 0.4117223434150219
-  lightness: 0.2835277607664466
-  saturation: 0.043045320082455873
-  rhythmicContrast: 0.18014801782555878
+  brandStrength: 0.3125
+  lightness: 0.4375
+  saturation: 0.125
+  rhythmicContrast: 0.5
 purpose: []
