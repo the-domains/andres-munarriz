@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: Walking around New York...
-datePublished: '2016-04-20T23:26:48.111Z'
-dateModified: '2016-04-20T23:24:43.643Z'
+datePublished: '2016-04-20T23:36:57.750Z'
+dateModified: '2016-04-20T23:36:53.916Z'
 title: Mazorca anyone?
 author:
   - name: andrés e. munárriz soto
