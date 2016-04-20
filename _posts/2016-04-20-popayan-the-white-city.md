@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: Popayan - the White City
-datePublished: '2016-04-20T22:51:26.398Z'
-dateModified: '2016-04-20T22:49:53.844Z'
+datePublished: '2016-04-20T22:52:25.282Z'
+dateModified: '2016-04-20T22:51:44.243Z'
 title: ''
 author:
   - name: andrés e. munárriz soto
