@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: Bahia Solano - Chocó
-datePublished: '2016-04-20T23:12:32.856Z'
-dateModified: '2016-04-20T23:12:29.896Z'
+datePublished: '2016-04-20T23:37:12.691Z'
+dateModified: '2016-04-20T23:37:05.567Z'
 title: Bahía Solano
 author:
   - name: andrés e. munárriz soto
@@ -27,4 +27,4 @@ _type: Article
 Bahia Solano - Chocó
 
 Perhaps one of the most forgotten places in Colombia, the Choco region is rich in natural resources, exotic wood, and it is one of the best humpback whale spotting places in the country. I just wish very few people come visit and that those who do, take as much care to preserve this piece of paradise intact as the people who live here.
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/180cf391-34d0-4235-ae9e-39332a8b5f94.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/916d43eba00ffc23c07193551a433e874b067f74.jpg)
