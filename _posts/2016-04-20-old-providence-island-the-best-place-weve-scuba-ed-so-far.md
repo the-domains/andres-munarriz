@@ -6,20 +6,20 @@ inLanguage: null
 starred: true
 keywords: []
 description: "Old Providence Island - the best place we've SCUBA-ed so far."
-datePublished: '2016-04-20T22:56:30.268Z'
-dateModified: '2016-04-20T22:51:49.411Z'
+datePublished: '2016-04-20T22:57:48.802Z'
+dateModified: '2016-04-20T22:56:38.652Z'
 title: ''
 author:
   - name: andrés e. munárriz soto
     url: ''
+sourcePath: _posts/2016-04-20-old-providence-island-the-best-place-weve-scuba-ed-so-far.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-04-20-old-providence-island-the-best-place-weve-scuba-ed-so-far.md
-published: true
 url: old-providence-island-the-best-place-weve-scuba-ed-so-far/index.html
 _type: Article
 
