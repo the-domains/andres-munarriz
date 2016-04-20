@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: 'Some forty minutes away from Bogotá, you will find the Sueva Falls.'
-datePublished: '2016-04-20T22:56:05.241Z'
-dateModified: '2016-04-20T22:55:49.496Z'
+datePublished: '2016-04-20T23:02:58.502Z'
+dateModified: '2016-04-20T22:56:10.809Z'
 title: ''
 author:
   - name: andrés e. munárriz soto
