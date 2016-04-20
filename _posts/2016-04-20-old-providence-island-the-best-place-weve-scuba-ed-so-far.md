@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: "Old Providence Island - the best place we've SCUBA-ed so far."
-datePublished: '2016-04-20T23:26:16.218Z'
-dateModified: '2016-04-20T23:24:17.566Z'
+datePublished: '2016-04-20T23:36:35.751Z'
+dateModified: '2016-04-20T23:36:24.456Z'
 title: "Diver's Heaven"
 author:
   - name: andrés e. munárriz soto
