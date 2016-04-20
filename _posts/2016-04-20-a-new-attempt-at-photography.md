@@ -5,11 +5,13 @@ inNav: false
 inLanguage: null
 starred: true
 keywords: []
-description: 'A new attempt at photography... years back, I decided to explore photography as a medium to communicate creatively. I am not an artist, by any means, nor am I very dextrous at drawing, designing, or sculpting. I guess I am "left-brained". Anyhow, this is a new attempt at this form of art. Please let me know what you think, feel, like, and dislike '
-datePublished: '2016-04-20T22:59:13.234Z'
-dateModified: '2016-04-20T22:58:55.289Z'
-title: ''
-author: []
+description: 'A new attempt at photography... years back, I decided to explore photography as a medium to communicate creatively. I am not an artist, by any means, nor am I very dextrous at drawing, designing, or sculpting. I guess I am "left-brained". Anyhow, this is a new attempt at this form of art. Please let me know what you think, feel, like, and dislike about my exposures.'
+datePublished: '2016-04-20T23:08:50.284Z'
+dateModified: '2016-04-20T23:08:43.399Z'
+title: Where it all begins... again.
+author:
+  - name: ''
+    url: ''
 sourcePath: _posts/2016-04-20-a-new-attempt-at-photography.md
 published: true
 authors: []
@@ -25,4 +27,4 @@ _type: Article
 Where it all begins...
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/37f65578-6875-4db7-9032-24b81d096993.jpg)
 
-A new attempt at photography... years back, I decided to explore photography as a medium to communicate creatively. I am not an artist, by any means, nor am I very dextrous at drawing, designing, or sculpting. I guess I am "left-brained". Anyhow, this is a new attempt at this form of art. Please let me know what you think, feel, like, and dislike
+A new attempt at photography... years back, I decided to explore photography as a medium to communicate creatively. I am not an artist, by any means, nor am I very dextrous at drawing, designing, or sculpting. I guess I am "left-brained". Anyhow, this is a new attempt at this form of art. Please let me know what you think, feel, like, and dislike about my exposures.
