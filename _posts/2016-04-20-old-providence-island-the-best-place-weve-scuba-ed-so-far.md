@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: "Old Providence Island - the best place we've SCUBA-ed so far."
-datePublished: '2016-04-20T22:36:58.012Z'
-dateModified: '2016-04-20T22:23:43.317Z'
+datePublished: '2016-04-20T22:56:30.268Z'
+dateModified: '2016-04-20T22:51:49.411Z'
 title: ''
 author:
   - name: andrés e. munárriz soto
