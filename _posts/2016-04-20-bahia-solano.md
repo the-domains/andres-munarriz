@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: Bahia Solano - Chocó
-datePublished: '2016-04-20T22:36:57.882Z'
-dateModified: '2016-04-20T22:20:27.572Z'
+datePublished: '2016-04-20T23:09:09.730Z'
+dateModified: '2016-04-20T22:51:46.408Z'
 title: Bahía Solano
 author:
   - name: andrés e. munárriz soto
