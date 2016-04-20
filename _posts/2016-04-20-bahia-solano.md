@@ -6,20 +6,20 @@ inLanguage: null
 starred: true
 keywords: []
 description: Bahia Solano - Chocó
-datePublished: '2016-04-20T23:09:09.730Z'
-dateModified: '2016-04-20T22:51:46.408Z'
+datePublished: '2016-04-20T23:12:32.856Z'
+dateModified: '2016-04-20T23:12:29.896Z'
 title: Bahía Solano
 author:
   - name: andrés e. munárriz soto
     url: ''
+sourcePath: _posts/2016-04-20-bahia-solano.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-04-20-bahia-solano.md
-published: true
 url: bahia-solano/index.html
 _type: Article
 
