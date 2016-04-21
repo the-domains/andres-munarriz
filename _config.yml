@@ -1,41 +1,41 @@
-name: 'andrés e. munárriz soto - a new attempt at photography '
-favicon: null
-layout_spectrum: 0.49904
-typography_spectrum: 0.38777
 title: My new attempt at photography
-collections:
-  - index:
-      path: /
-      number: 15
-      paginate: true
-      navigable: true
-    permalink:
-      path: '/:title/'
-    feed:
-      path: /rss.xml
-      format: rss
-      number: 10
 cta:
-  domain: null
-  bucket: null
   version: null
+  bucket: null
+  domain: null
+layout_spectrum: 0.7362155
+favicon: null
+name: 'andrés e. munárriz soto - a new attempt at photography '
+purpose: []
 analytics:
+  twitter: null
   google: null
   facebook: null
-  twitter: null
 opengraph:
   image: null
   type: null
   appId: null
+collections:
+  - index:
+      paginate: true
+      path: /
+      number: 15
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      format: rss
+      path: /rss.xml
+      number: 10
 color:
+  brandStrength: 0.3125
+  saturation: 0.125
   brandColors:
     - '#010101'
     - '#443751'
     - '#a34b49'
     - '#d7746f'
     - '#ffb885'
-  brandStrength: 0.3125
   lightness: 0.4375
-  saturation: 0.125
   rhythmicContrast: 0.75
-purpose: []
+typography_spectrum: 0.38777
