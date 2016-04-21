@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: 'A new attempt at photography... years back, I decided to explore photography as a medium to communicate creatively. I am not an artist, by any means, nor am I very dextrous at drawing, designing, or sculpting. I guess I am "left-brained". Anyhow, this is a new attempt at this form of art. Please let me know what you think, feel, like, and dislike about my exposures.'
-datePublished: '2016-04-20T23:08:50.284Z'
-dateModified: '2016-04-20T23:08:43.399Z'
+datePublished: '2016-04-21T13:35:21.565Z'
+dateModified: '2016-04-21T13:35:21.049Z'
 title: Where it all begins... again.
 author:
   - name: ''
