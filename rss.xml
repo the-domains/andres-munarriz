@@ -4,15 +4,8 @@
         <description><![CDATA[My new attempt at photography]]></description>
         <link>https://thegrid.ai/andres-munarriz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 21 Apr 2016 12:50:29 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Apr 2016 12:50:30 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/andres-munarriz/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[One day, in Lisbon]]></title>
-            <description><![CDATA[<article><h1>One day, in Lisbon</h1><p>Lisboa, Portugal</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/cd6428e9-b335-4c27-b010-59fa6488093c.jpg"></article>]]></description>
-            <link>https://thegrid.ai/andres-munarriz/lisboa-portugal/index.html</link>
-            <guid isPermaLink="false">e68ef4d9-af69-45da-b2a8-273ae512c022</guid>
-            <pubDate>Thu, 21 Apr 2016 12:38:18 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b111769acf5587942a448f206af8cec472b702ed.jpg" alt="" title="">]]></description>
@@ -68,6 +61,13 @@
             <link>https://thegrid.ai/andres-munarriz/some-forty-minutes-away-from-bogota-you-will-find-the-sueva/index.html</link>
             <guid isPermaLink="false">f8dec4ab-cd64-46f1-be94-3c9e70736681</guid>
             <pubDate>Wed, 20 Apr 2016 23:06:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[One day, in Lisbon]]></title>
+            <description><![CDATA[<article><h1>One day, in Lisbon</h1><p>Lisboa, Portugal</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/cd6428e9-b335-4c27-b010-59fa6488093c.jpg"></article>]]></description>
+            <link>https://thegrid.ai/andres-munarriz/lisboa-portugal/index.html</link>
+            <guid isPermaLink="false">e68ef4d9-af69-45da-b2a8-273ae512c022</guid>
+            <pubDate>Thu, 21 Apr 2016 12:50:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
