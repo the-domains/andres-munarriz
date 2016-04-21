@@ -3,7 +3,7 @@ cta:
   version: null
   bucket: null
   domain: null
-layout_spectrum: 0.7362155
+layout_spectrum: 0.9022557
 favicon: null
 name: 'andrés e. munárriz soto - a new attempt at photography '
 purpose: []
@@ -29,13 +29,13 @@ collections:
       number: 10
 color:
   brandStrength: 0.3125
+  lightness: 0.8189223
   saturation: 0.125
+  rhythmicContrast: 0.75
   brandColors:
     - '#010101'
     - '#443751'
     - '#a34b49'
     - '#d7746f'
     - '#ffb885'
-  lightness: 0.4375
-  rhythmicContrast: 0.75
 typography_spectrum: 0.38777
