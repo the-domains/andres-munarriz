@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: true
+starred: false
 keywords: []
 description: 'Some forty minutes away from Bogotá, you will find the Sueva Falls.'
-datePublished: '2016-04-20T23:06:32.823Z'
-dateModified: '2016-04-20T23:06:25.346Z'
+datePublished: '2016-04-21T13:26:59.352Z'
+dateModified: '2016-04-21T13:26:49.365Z'
 title: "Hiking the 'Sueva' Falls"
 author:
   - name: andrés e. munárriz soto
@@ -25,4 +25,4 @@ _type: Article
 
 ---
 Some forty minutes away from Bogotá, you will find the Sueva Falls.
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/b05a88abc34bf311d8dce7384ebba88af6ceaf2a.jpg)
+![Some forty minutes away from Bogotá, you will find the Sueva Falls.](https://the-grid-user-content.s3-us-west-2.amazonaws.com/72fdffab-f0c0-46a2-bdc3-2ca85e9ccdfd.jpg)
