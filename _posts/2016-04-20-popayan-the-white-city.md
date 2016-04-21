@@ -3,12 +3,12 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: true
+starred: false
 keywords: []
 description: Popayan - the White City
-datePublished: '2016-04-20T23:36:09.455Z'
-dateModified: '2016-04-20T23:36:03.354Z'
-title: "The church in Popayan's Town Square"
+datePublished: '2016-04-21T12:53:11.183Z'
+dateModified: '2016-04-21T12:51:58.463Z'
+title: ''
 author:
   - name: andrés e. munárriz soto
     url: ''
@@ -24,5 +24,6 @@ url: popayan-the-white-city/index.html
 _type: Article
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/98d0afb5-d0db-410a-abd2-a7da54b828ca.jpg)
+
 Popayan - the White City
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b5e8c34b-96d3-490d-8209-227d23d6503d.jpg)
