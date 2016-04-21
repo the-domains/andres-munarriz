@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: 'Lisboa, Portugal'
-datePublished: '2016-04-20T23:35:36.536Z'
-dateModified: '2016-04-20T23:35:27.845Z'
+datePublished: '2016-04-21T12:38:18.503Z'
+dateModified: '2016-04-21T12:38:10.088Z'
 title: 'One day, in Lisbon'
 author:
   - name: andrés e. munárriz soto
@@ -24,6 +24,6 @@ url: lisboa-portugal/index.html
 _type: Article
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/cd6428e9-b335-4c27-b010-59fa6488093c.jpg)
+
 Lisboa, Portugal
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c1afce1d-ca50-4898-90cd-51fab6012b26.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f3da2269-cc4a-422b-a16b-40cf5cbb1f42.jpg)
