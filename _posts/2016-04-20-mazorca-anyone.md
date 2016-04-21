@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: true
+starred: false
 keywords: []
 description: Walking around New York...
-datePublished: '2016-04-20T23:36:57.750Z'
-dateModified: '2016-04-20T23:36:53.916Z'
+datePublished: '2016-04-21T13:13:49.785Z'
+dateModified: '2016-04-21T13:13:32.447Z'
 title: Mazorca anyone?
 author:
   - name: andrés e. munárriz soto
@@ -24,5 +24,6 @@ url: mazorca-anyone/index.html
 _type: Article
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/42f581e6-1fc1-454e-b2d9-4c30f7afb3a8.jpg)
+
 Walking around New York...
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/21610a8e-e8e2-47cf-b213-4c4694d796e5.jpg)
