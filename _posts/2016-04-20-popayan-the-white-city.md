@@ -6,9 +6,9 @@ inLanguage: null
 starred: false
 keywords: []
 description: Popayan - the White City
-datePublished: '2016-04-21T12:53:11.183Z'
-dateModified: '2016-04-21T12:51:58.463Z'
-title: ''
+datePublished: '2016-04-21T12:54:29.463Z'
+dateModified: '2016-04-21T12:54:24.319Z'
+title: "The Church in Popayan's Square"
 author:
   - name: andrés e. munárriz soto
     url: ''
