@@ -1,7 +1,4 @@
-analytics:
-  twitter: null
-  facebook: null
-  google: null
+name: 'andrés e. munárriz soto - a new attempt at photography '
 opengraph:
   image: null
   type: null
@@ -12,12 +9,12 @@ collections:
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
+    permalink:
+      path: '/:title/'
 layout_spectrum: 0.3897
 title: My new attempt at photography
 cta:
@@ -37,5 +34,8 @@ color:
     - '#ffb885'
   lightness: 0.8189223
 favicon: null
+analytics:
+  twitter: null
+  facebook: null
+  google: null
 typography_spectrum: 0.58238
-name: 'andrés e. munárriz soto - a new attempt at photography '
