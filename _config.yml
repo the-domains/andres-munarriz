@@ -1,31 +1,6 @@
-typography_spectrum: 0.58238
-opengraph:
-  image: null
-  type: null
-  appId: null
-collections:
-  - index:
-      path: /
-      number: 15
-      paginate: true
-      navigable: true
-    permalink:
-      path: '/:title/'
-    feed:
-      path: /rss.xml
-      format: rss
-      number: 10
-layout_spectrum: 0.3897
-title: My new attempt at photography
-cta:
-  version: null
-  bucket: null
-  domain: null
-purpose: []
 color:
-  saturation: 1
   brandStrength: 0.6875
-  rhythmicContrast: 0.8239349
+  saturation: 1
   brandColors:
     - '#010101'
     - '#443751'
@@ -33,9 +8,34 @@ color:
     - '#d7746f'
     - '#ffb885'
   lightness: 0.8189223
-favicon: null
-name: 'andrés e. munárriz soto - a new attempt at photography '
+  rhythmicContrast: 0.8239349
+title: My new attempt at photography
 analytics:
-  twitter: null
   facebook: null
   google: null
+  twitter: null
+collections:
+  - index:
+      paginate: true
+      path: /
+      number: 15
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      format: rss
+      path: /rss.xml
+      number: 10
+cta:
+  domain: null
+  version: null
+  bucket: null
+favicon: null
+layout_spectrum: 0.3897
+purpose: []
+opengraph:
+  image: null
+  type: null
+  appId: null
+name: 'andrés e. munárriz soto - a new attempt at photography '
+typography_spectrum: 0.58238
